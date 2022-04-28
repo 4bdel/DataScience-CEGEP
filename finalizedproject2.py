@@ -8,8 +8,8 @@ Original file is located at
 
 **<h1>VIOLENT CRIME ANALYSIS IN THE USA </h1>**
 
-Harpreet Singh Ghotra (1839451), Abdelkader Habel
-<p>Level 2
+Harpreet Singh Ghotra, Abdelkader Habel
+<p>
 
 # Introduction
 
