@@ -1,6 +1,7 @@
 <h1> Crime Rate Data Analysis and Visualization</h1>
 In these projects written as a college student, I was interested in looking at crime rates in the United States. 
 <h2>1. State Population Size and Crime Rates</h2>
+The name of the Python Notebook for this project is Population-Size-vs-Murder-Rates.ipynb.<br><br>
 In a first project, I looked at whether the size of the population in each US state is correlated to the rate of murders. Using Python and libraries like MatplotLib, Pandas and NumPy, I was able to manipulate a dataset with data from the FBI and the US Department of Justice. The dataset is available at the following link: https://corgis-edu.github.io/corgis/csv/state_crime/. After cleaning the rows and columns of the dataset, I plotted the murder rates against the population for each state, and determined that there does not seem to be a correlation between the two, based solely on the size of each individual state.
 
 
